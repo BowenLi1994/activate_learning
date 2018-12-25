@@ -1,0 +1,4 @@
+This is the Python codes for hw3:
+The roc.py is the code for question 1 to draw the ROC graph.
+The activatelearning_MindReading.py is the code to get the accuracy of MindReading Dataset
+The activatelearning_MMI.py is the code to get the accuracy of MMI Dataset
